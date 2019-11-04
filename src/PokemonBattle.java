@@ -7,7 +7,11 @@ import java.util.*;
  * 	- Does basic dialogue outline
  * - Damage method
  * 	- Takes pokemon name
- * 	- 
+ * 	- Queries all data types -- Level, Attack, Defense, Base, STAB, HP
+ * 	- Calc Modifier -- Random (0.85, 1.0) * STAB
+ * 	- Damage Calc -- (((2 * level + 10)/250) + (Attack/Defense) * Base + 2) * Modifier
+ * 	- Subtract damage from HP and display along with damage
+ * - Table
  */
 public class PokemonBattle {
 
