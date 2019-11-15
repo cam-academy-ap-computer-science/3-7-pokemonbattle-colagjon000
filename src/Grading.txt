@@ -7,6 +7,8 @@
 
 3 pts - Proper Use of Return
 1/3 because damage and table methods should all be called from main() and the damage method should have return statement instead of void.
+CORRECTED:  I (Ed) instructed them that they may do it this way in class.  3/3.   Thanks Khanh, for bringing it to my attention.
+
 
 3 pts - Proper User of Parameter
 3/3
